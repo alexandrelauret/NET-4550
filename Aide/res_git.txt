@@ -1,0 +1,14 @@
+cd ton/dossier/projet
+git checkout dev-le-S
+git pull origin dev-le-S
+# (modifie les fichiers)
+git add .
+git commit -m "Explication des changements"
+git push origin dev-le-S
+
+
+git checkout main
+git pull origin main
+git merge dev-le-S
+git push origin main
+
