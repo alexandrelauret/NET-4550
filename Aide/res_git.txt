@@ -1,4 +1,4 @@
-cd ton/dossier/projet
+cd C:\Users\0203163E\OneDrive - SNCF\Bureau\Projet_Diabetes\NET-4550
 git checkout dev-le-S
 git pull origin dev-le-S
 # (modifie les fichiers)
