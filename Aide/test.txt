@@ -1,0 +1,3 @@
+https://archive.ics.uci.edu/dataset/891/cdc+diabetes+health+indicators
+https://docs.google.com/document/d/1HnStmK8Ssy1nf_6y4j2bLyWWrPSLsW2FP8PlApyIbBA/edit?tab=t.0
+https://github.com/alexandrelauret/NET-4550#
